@@ -1,0 +1,11 @@
+{
+  "name": "jestTest-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucas-cercal/jestTest-nodejs.git",
+  "author": "Lucas Cercal <lucascercal.fontes@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
